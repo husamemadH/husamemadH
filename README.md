@@ -1,6 +1,6 @@
 ## 👨‍💻 Hi, I'm Husam 👋
 I'm a developer focused on **Backend Development** and **Cloud Infrastructure**. 
-When I'm not coding, you can find me at the gym or hanging out with cats.
+When I'm not coding, you can find me at the gym.
 
 ### 🛠 Languages and Tools:
 <p align="left">
