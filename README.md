@@ -1,5 +1,5 @@
 ##  Hi, I'm Husam 👋
 
-[![NeetCode Stats](https://h7tckfvrb5dzj6riqh6yxdmavq0ccilv.lambda-url.us-east-1.on.aws/)](https://github.com/husamemadH/neetcode-stats-card)
+[![NeetCode Stats](https://neetcode-stats-card-cache-975804125027.s3.us-east-1.amazonaws.com/neetcode-card.svg)](https://github.com/husamemadH/neetcode-stats-card)
 
 [neetcode stats card made by me](https://github.com/husamemadH/neetcode-stats-card)
