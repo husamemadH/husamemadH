@@ -1,4 +1,3 @@
-##  Hi, I'm Husam 👋
 [neetcode stats card made by me](https://github.com/husamemadH/neetcode-stats-card)
 
 
