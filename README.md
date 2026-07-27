@@ -1,6 +1,6 @@
 Omarchy enjoyer
 
-i like giving back to open source
+I like giving back to open source
 
 [neetcode stats card made by me](https://github.com/husamemadH/neetcode-stats-card)
 
